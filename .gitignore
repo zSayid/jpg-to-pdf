@@ -1,0 +1,28 @@
+
+# Ignore node_modules (Node.js dependencies)
+node_modules/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+dist/
+build/
+venv/
+
+# Ignore IDE/project files
+.vscode/
+.idea/
+*.iml
+
